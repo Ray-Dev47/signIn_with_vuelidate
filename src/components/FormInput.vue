@@ -190,7 +190,7 @@ export default {
         userName: "",
         password: "",
         passwordConfirm: "",
-        subscription: "false",
+        subscription: false,
         terms: "",
       },
     };
